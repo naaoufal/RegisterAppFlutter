@@ -90,5 +90,5 @@ saveUser(name, email, password) async {
   );
 
   // check if response is ok :
-  print(response)
+  print(response);
 }
